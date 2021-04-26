@@ -15,6 +15,7 @@
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
 <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">  
 
+### Contact
 
 🔗  <a href="https://www.linkedin.com/in/mateus-ferreira-3315a1109/" target="_blank">LinkedIn </a>
 
