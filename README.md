@@ -13,10 +13,10 @@
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">  
+<img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">  
 
 
-🔗  <a href="https://www.linkedin.com/in/mateus-ferreira-3315a1109/">LinkedIn </a>
+🔗  <a href="https://www.linkedin.com/in/mateus-ferreira-3315a1109/" target="_blank">LinkedIn </a>
 
 📧Email: mateusaugustosferreira@hotmail.com
 
