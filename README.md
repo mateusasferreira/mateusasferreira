@@ -3,7 +3,7 @@
  
  🇧🇷 Born and living in Brazil
  
- 🌐 English, Portuguese and Spanish speaker
+ 🌐 Portuguese, English and Spanish speaker
 
 
 
