@@ -1,5 +1,5 @@
 ## Hi, I'm Mateus Ferreira  👋
- 🖥️ Learning Front-End Web Development
+ 🖥️ Currently focused on Front-End Web Development
  
  🇧🇷 Born and living in Brazil
  
