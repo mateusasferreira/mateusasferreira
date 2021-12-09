@@ -16,6 +16,6 @@
 
 📱 Phone/Whatsapp: +55 11 992904502
 
-### Blog Posts
-- [How to create a resell token functionality in your NFT marketplace smart contract](https://dev.to/mateusasferreira/how-to-create-a-resell-token-functionality-in-your-nft-marketplace-smart-contract-ha)
+## Blog Posts
+- #### [How to create a resell token functionality in your NFT marketplace smart contract](https://dev.to/mateusasferreira/how-to-create-a-resell-token-functionality-in-your-nft-marketplace-smart-contract-ha)
 
