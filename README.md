@@ -12,7 +12,7 @@
 
 🔗  <a href="https://www.linkedin.com/in/mateus-ferreira-3315a1109/" target="_blank">LinkedIn </a>
 
-📧 Email: mateusaugustosferreira@hotmail.com
+📧 Email: mateusasferreira28@gmail.com
 
 📱 Phone/Whatsapp: +55 11 992904502
 
