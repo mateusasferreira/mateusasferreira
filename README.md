@@ -17,5 +17,6 @@
 📱 Phone/Whatsapp: +55 11 992904502
 
 ## Blog Posts
+- #### [How to build an email notification API in less than 30 minutes with Node.js and Docker](https://dev.to/mateusasferreira/how-to-build-an-email-notification-api-in-less-than-30-minutes-with-nodejs-and-docker-318p)
 - #### [How to create a resell token functionality in your NFT marketplace smart contract](https://dev.to/mateusasferreira/how-to-create-a-resell-token-functionality-in-your-nft-marketplace-smart-contract-ha)
 
