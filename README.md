@@ -1,11 +1,12 @@
 ## Hi, I'm Mateus Ferreira  👋
- 🖥️ Currently focused on Full-stack Web Development
+ 🖥️ Full-stack Web Developer
  
  🇧🇷 Born and living in Brazil
  
- 🌐 Portuguese, English and Spanish speaker
+ 🌐 Portuguese, English, and Spanish speaker
 
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+### About this page
+Expect to find some POCs and study cases I work on sometimes.
   
 ### Contact
 
@@ -15,7 +16,4 @@
 
 📱 Phone/Whatsapp: +55 11 992904502
 
-## Blog Posts
-- #### [How to build an email notification API in less than 30 minutes with Node.js and Docker](https://dev.to/mateusasferreira/how-to-build-an-email-notification-api-in-less-than-30-minutes-with-nodejs-and-docker-318p)
-- #### [How to create a resell token functionality in your NFT marketplace smart contract](https://dev.to/mateusasferreira/how-to-create-a-resell-token-functionality-in-your-nft-marketplace-smart-contract-ha)
 
